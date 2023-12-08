@@ -1,0 +1,10 @@
+6. write a python program for conditional statement 
+ 6.1. if 
+ 6.2. if elif
+ 6.3. if elif else
+
+7. Write a python program to demostrate to use of break, continue and pass. 
+8. Write a python program to demostrate to use of iterative statements 
+	 1. FOR 
+	 2. WHILE
+9. 
